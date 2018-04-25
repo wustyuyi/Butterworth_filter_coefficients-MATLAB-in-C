@@ -38,12 +38,13 @@
 #include <iostream>
 #include <cstdlib>
 #include <cstdio>
+#include <vector>
 #include <string.h>
 #include <cmath>
 #include "iir.h"
 
 using namespace std;
-
+typedef std::vector<double> vectord;
 
 /**********************************************************************
  binomial_mult - multiplies a series of binomials together and returns
