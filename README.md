@@ -6,10 +6,10 @@ In order to obtain the same results as the function 'butter' in MATLAB, uses 'hi
 ```
 ## How to use
 Just include the header file and write your own codes based on the example programs.
-> bwlp.c-lowpass filter coefficient calculator<br />
-> bwhp.c-highpass ilter coefficient calculator<br />
-> bwbp.c-bandpass filter coefficient calculator<br />
-> bwbs.c-bandstop filter coefficient calculator
+- bwlp.c-lowpass filter coefficient calculator<br />
+- bwhp.c-highpass ilter coefficient calculator<br />
+- bwbp.c-bandpass filter coefficient calculator<br />
+- bwbs.c-bandstop filter coefficient calculator
 
 These are the official guides but i recommend you to check out my example code `butter.cpp`!
 ## Useful tip
